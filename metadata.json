@@ -1,0 +1,6 @@
+{
+  "name": "Call Of Nature",
+  "description": "An environmental 2D adventure game containing ten unique mini-games connected through a single story. Save animals, extinguish forest fires, capture loggers, clean rivers, and restore Evergreen Island!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
